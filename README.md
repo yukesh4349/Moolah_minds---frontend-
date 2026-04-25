@@ -1,64 +1,56 @@
-# Moolah Minds - Financial Literacy Simulation
+💰 Moolah Minds — Financial Literacy Simulation
 
-Moolah Minds is a modern, interactive web application designed to teach financial literacy through a gamified simulation. Users can navigate through various life scenarios, make weekly financial decisions, and track their progress in a realistic economic environment.
+Moolah Minds is a modern, interactive web application designed to teach financial literacy through immersive, gamified experiences. It enables users to simulate real-life financial decisions, manage virtual income, and build long-term wealth strategies in a dynamic economic environment.
 
-## 🚀 Features
+The platform bridges the gap between theoretical knowledge and practical application by allowing users to learn finance by doing, not just reading.
 
-- **Dynamic Dashboard**: A comprehensive overview of your financial status, including cash balance, savings, and weekly cash flow.
-- **Weekly Decision Game**: Make critical choices about work, education, investments, and personal life that impact your character's wealth and career.
-- **Financial History**: Track every decision and random life event (like market rallies or unexpected expenses) in a detailed timeline.
-- **Global Leaderboard**: Compare your net worth and progress against other players.
-- **User Profile**: Manage your character's level, achievements, and professional skills.
-- **Responsive Design**: Fully optimized for both desktop and mobile devices.
+🚀 Key Features
+📊 Dynamic Financial Dashboard
 
-## 🛠️ Tech Stack
+A real-time overview of your financial health, including:
 
-- **Framework**: React 18
-- **Build Tool**: Vite
-- **Styling**: Tailwind CSS
-- **Routing**: React Router
-- **Icons**: Lucide React & Emojis
-- **State Management**: React Hooks
+Cash balance
+Savings and investments
+Weekly income vs expenses
+Net worth progression
+🎮 Gamified Weekly Decision Engine
 
-## 📦 Getting Started
+Users progress through weekly life scenarios where they make decisions on:
 
-### Prerequisites
+Career growth and job opportunities
+Education and skill development
+Investments and savings strategies
+Lifestyle and personal expenses
 
-- [Node.js](https://nodejs.org/) (Latest LTS recommended)
-- npm (comes with Node.js)
+Each decision directly impacts financial outcomes and long-term growth.
 
-### Installation
+📜 Financial Timeline & History
+Track all decisions and their consequences
+Monitor random economic events (market booms, emergencies, etc.)
+Visualize financial behavior over time
+🏆 Global Leaderboard
+Compete with other users based on net worth
+Encourage strategic thinking and optimization
+Adds a competitive and engaging layer to learning
+👤 User Profile System
+Track player level and progression
+Unlock achievements and milestones
+Manage skills and career attributes
+📱 Fully Responsive Design
+Optimized for desktop, tablet, and mobile
+Smooth UI/UX with modern design principles
+🛠️ Tech Stack
+Category	Technology Used
+Frontend Framework	React 18
+Build Tool	Vite
+Styling	Tailwind CSS
+Routing	React Router
+Icons	Lucide React + Emojis
+State Management	React Hooks
+⚙️ Getting Started
+🔧 Prerequisites
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yukesh4349/Moolah_minds---frontend-.git
-   ```
+Make sure you have the following installed:
 
-2. **Navigate to the project directory**:
-   ```bash
-   cd "Wireframe for Moolah Minds"
-   ```
-
-3. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-4. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-
-5. **Open your browser**:
-   Navigate to `http://localhost:5173` to see the application in action.
-
-## 📁 Project Structure
-
-- `src/app/components`: Core UI components (Dashboard, Profile, etc.)
-- `src/app/routes.tsx`: Navigation configuration.
-- `src/styles`: Tailwind and CSS theme settings.
-- `public`: Static assets.
-
-## 📄 License
-
-This project is created as a wireframe for the Moolah Minds platform.
+Node.js (Latest LTS recommended)
+npm (comes with Node.js)
